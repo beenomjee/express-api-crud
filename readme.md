@@ -1,5 +1,5 @@
-#Express CRUD API
-###Available Paths are:
+# Express CRUD API
+### Available Paths are:
 
 ```
 /api/users - GET
